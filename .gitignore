@@ -2,6 +2,7 @@ node_modules/
 .expo/
 dist/
 %ProgramData%/
+.env
 npm-debug.*
 *.jks
 *.p8
